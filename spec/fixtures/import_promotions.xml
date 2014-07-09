@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+  <building id="A,B,C">
+    <plot id="A-1">
+      <status>reserved</status>
+      <price>0</price>
+    </plot>
+    <plot id="A-2">
+      <status>sold</status>
+      <price>0</price>
+    </plot>
+    <plot id="A-3">
+      <status>available</status>
+      <price>0</price>
+    </plot>
+    <plot id="A-4">
+      <status>sold</status>
+      <price>0</price>
+    </plot>
+    <plot id="B-1">
+      <status>available</status>
+      <price>0</price>
+    </plot>
+    <plot id="B-2">
+      <status>sold</status>
+      <price>0</price>
+    </plot>
+    <plot id="C-1">
+      <status>available</status>
+      <price>0</price>
+    </plot>
+    <plot id="C-2">
+      <status>sold</status>
+      <price>0</price>
+    </plot>
+  </building>
+  <building id="D">
+    <plot id="D-1">
+      <status>reserved</status>
+      <price>0</price>
+    </plot>
+    <plot id="D-2">
+      <status>reserved</status>
+      <price>0</price>
+    </plot>
+  </building>
+</site>
